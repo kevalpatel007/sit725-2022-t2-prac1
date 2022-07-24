@@ -1,6 +1,6 @@
 # sit725-2022-t2-prac1
 
-This is a very basic template that host a wen application. This aplication tries to demonstrate a very basic javascrit function to change text
+This is a very basic template that host a web application.
 
 ## Run The Appllication
 
